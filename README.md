@@ -1,24 +1,22 @@
-## Charte graphique Jamstatic
+# Charte graphique Jamstatic
 
-### Logotype
+## Logotype
 
-<img width="854" alt="Capture d’écran 2020-10-17 à 22 45 03" src="https://user-images.githubusercontent.com/103008/96353314-07312980-10cb-11eb-8708-375bf8578d4c.png"> 
+<img width="854" alt="Logo Jamstatic" src="https://user-images.githubusercontent.com/103008/96353314-07312980-10cb-11eb-8708-375bf8578d4c.png"> 
 
-### Polices
+## Polices
 
-- [Poppins ExtraBold](https://fonts.google.com/specimen/Poppins)
-- Roboto Regular
-- Roboto Bold
+- [Poppins](https://fonts.google.com/specimen/Poppins) ExtraBold
+- [Roboto](https://fonts.google.com/specimen/Roboto) Regular
+- [Roboto](https://fonts.google.com/specimen/Roboto) Bold
 
-### Couleurs prinicpales
+## Couleurs prinicpales
 
-- VIOLET INDIGO: #300A66 
-- ROSE BONBON #FF4863
-- BLEU PERVENCHE #7DACFF
+- Violet indigo : #300A66
+- Rose bonbon : #FF4863
+- Bleu pervenche : #7DACFF
 
-### Couleurs de contraste
+## Couleurs de contraste
 
-- NOIR RAISIN #231B30
-- VIOLET PERSAN #4A21CC 
-
-[Brandy](https://getbrandy.io/) 1JTxPwy0Y4jAr9qpHsQZ
+- Noir raisin : #231B30
+- Violet Persan : #4A21CC 
