@@ -4,7 +4,7 @@ Créée par [Cécile Ricordeau](https://www.cecillie.fr).
 
 ## Logotype
 
-<img width="854" alt="Logo Jamstatic" src="https://user-images.githubusercontent.com/103008/96353314-07312980-10cb-11eb-8708-375bf8578d4c.png"> 
+<img width="854" alt="Logo Jamstatic" src="https://user-images.githubusercontent.com/103008/96353314-07312980-10cb-11eb-8708-375bf8578d4c.png">
 
 ## Polices
 
