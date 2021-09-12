@@ -1,4 +1,6 @@
-# Charte graphique Jamstatic
+# Charte graphique [Jamstatic](https://jamstatic.fr)
+
+Créée par [Cécile Ricordeau](https://www.cecillie.fr).
 
 ## Logotype
 
@@ -12,11 +14,11 @@
 
 ## Couleurs prinicpales
 
-- Violet indigo : #300A66
-- Rose bonbon : #FF4863
-- Bleu pervenche : #7DACFF
+- Violet indigo : [#300A66](https://www.google.com/search?q=%23300A66)
+- Rose bonbon : [#FF4863](https://www.google.com/search?q=%23FF4863)
+- Bleu pervenche : [#7DACFF](https://www.google.com/search?q=%237DACFF)
 
 ## Couleurs de contraste
 
-- Noir raisin : #231B30
-- Violet Persan : #4A21CC 
+- Noir raisin : [#231B30](https://www.google.com/search?q=%23231B30)
+- Violet Persan : [#4A21CC](https://www.google.com/search?q=%234A21CC)
